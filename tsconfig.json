@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "noImplicitAny": true,
+      "removeComments": true,
+      "allowUnreachableCode": false,
+      "strictNullChecks": true,
+      "target": "ES6", 
+      "module": "commonjs", 
+      "outDir": "./dist/",
+      "esModuleInterop": true
+  }
+}
